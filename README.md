@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/github/license/nebula-chat-fork/nebula-chat-fork.github.io.svg)](https://github.com/nebula-chat-fork/nebula-chat-fork.github.io/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/freegram-im/freegram-im.github.io.svg)](https://github.com/freegram-im/freegram-im.github.io/blob/master/LICENSE)
 
-# nebula-chat-fork.github.io
+freegram-im.github.io
 
-https://nebula-chat-fork.github.io/
+https://freegram-im.github.io/
